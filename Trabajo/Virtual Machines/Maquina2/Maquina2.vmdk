@@ -1,0 +1,27 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=a4d9bad0
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "Maquina2-s001.vmdk"
+RW 8323072 SPARSE "Maquina2-s002.vmdk"
+RW 8323072 SPARSE "Maquina2-s003.vmdk"
+RW 8323072 SPARSE "Maquina2-s004.vmdk"
+RW 8323072 SPARSE "Maquina2-s005.vmdk"
+RW 327680 SPARSE "Maquina2-s006.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "2610"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "02eec4aceda63f2e27ef555aa4d9bad0"
+ddb.toolsInstallType = "4"
+ddb.toolsVersion = "12416"
+ddb.uuid = "60 00 C2 93 8a e8 63 5e-4b e3 c8 a9 24 09 d2 cb"
+ddb.virtualHWVersion = "21"

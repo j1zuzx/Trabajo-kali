@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 d8 9e 33 96 5e 73 b0-2d 98 3c af f4 d7 ba 3a</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Maquina3.vmx</vmxPathName></VM></Foundry>

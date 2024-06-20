@@ -1,0 +1,19 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=44a8f317
+parentCID=0b3a730c
+createType="twoGbMaxExtentSparse"
+parentFileNameHint="Maquina1-000001.vmdk"
+# Extent description
+RW 8323072 SPARSE "Maquina1-000002-s001.vmdk"
+RW 8323072 SPARSE "Maquina1-000002-s002.vmdk"
+RW 8323072 SPARSE "Maquina1-000002-s003.vmdk"
+RW 8323072 SPARSE "Maquina1-000002-s004.vmdk"
+RW 8323072 SPARSE "Maquina1-000002-s005.vmdk"
+RW 327680 SPARSE "Maquina1-000002-s006.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.longContentID = "b0ab4c7ed97b150c10328d2344a8f317"
